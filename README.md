@@ -1,6 +1,6 @@
 # 平行威客——selenium自动化脚本
 基于selenium编写的自动化脚本，包含威客首页登陆、发布需求、支付过程。
-#部分说明：
+# 部分说明：
 移除原生js，直接输入日期时间
 js = "document.getElementById('wkbiddataend').removeAttribute('readonly')"
 browser.execute_script(js)
