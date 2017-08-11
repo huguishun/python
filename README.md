@@ -1,2 +1,2 @@
-# selenium
-python selenium code
+# 平行威客——selenium自动化脚本
+基于selenium编写的自动化脚本，包含威客首页登陆、发布需求、支付过程。
