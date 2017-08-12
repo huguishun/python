@@ -48,3 +48,5 @@ for headle in allcurrent:
 		time.sleep(30)
 		browser.find_element_by_link_text("提交").click()
 		browser.find_element_by_link_text("查看订单详情").click()
+		time.sleep(10)
+		browser.quit()
